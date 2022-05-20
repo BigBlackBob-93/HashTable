@@ -1,0 +1,3 @@
+﻿  Lab2_HashTables_Lists.cpp
+D:\C++\4 semester\Lab2_HashTables_Lists\Lab2_HashTables_Lists\Lab2_HashTables_Lists.cpp(184,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab2_HashTables_Lists.vcxproj -> D:\C++\4 semester\Lab2_HashTables_Lists\Debug\Lab2_HashTables_Lists.exe
